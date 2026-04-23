@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("hello")
+	fmt.Println("hello new")
 	login := promptData("Login")
 	password := promptData("Password")
 	userURL := promptData("URL")
